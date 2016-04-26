@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidTransitionAnimationDemo</string>
+    <string name="transitionName">TransitionName</string>
+</resources>
